@@ -70,5 +70,11 @@ Unstructured data analytics + MDS brand maps
 
 ---
 
+## 🐍 Watch my contributions get eaten
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anshul-24git/Anshul-24git/output/github-snake.svg" alt="snake gif" />
+</p>
+
 ## 🧠 Wakatime Coding Stats (Optional)
 
