@@ -7,10 +7,14 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **4+ years** building high-scale, mission-critical systems across **fraud detection**,  
+Software Engineer with **4+ years** building high-scale, mission-critical systems across **finance & fraud detection**,  
 **distributed systems**, **AI/ML workflows**, and **cloud-native platforms**.  
 
-I love designing systems that are **fast**, **reliable**, and **intelligent** — whether it’s  
+- Comfortable across the stack but happiest doing **backend, data, and ML-heavy** work  
+- Hands-on with **Java, Spring Boot, Python, AWS, Docker, Kubernetes, Jenkins, Kafka, Argo**  
+- Love turning messy, unstructured data into **useful analytics & products**  
+- Big F1 nerd 🏎️ – yes, I did build my own F1 data dashboard
+- I love designing systems that are **fast**, **reliable**, and **intelligent** — whether it’s  
 🤖 LLM-powered workflows,  
 ⚡ ultra-low latency APIs, or  
 📊 real-time dashboards like my F1 analytics project.
