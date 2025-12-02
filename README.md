@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=700&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Anshul+👋;Backend+Engineer+%7C+AI+Engineer+%7C+Distributed+Systems;Building+Scalable+Systems+%26+Smart+AI+Workflows" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=700&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Anshul+👋;Backend+Engineer+%7C+AI+Engineer+;Building+Scalable+Systems+%26+Smart+AI+Workflows" />
 </p>
 
 ---
