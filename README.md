@@ -1,99 +1,70 @@
-<h1 align="center">Hey, I'm Anshul 👋</h1>
-
+<!-- HERO BANNER -->
 <p align="center">
-  <b>Backend & AI Engineer</b> · Java / Spring Boot · Python · AWS · Data & ML
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anshul-joshi24">
-    <img src="https://img.shields.io/badge/LinkedIn-Anshul%20Joshi-blue?style=flat&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-USA-informational?style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=700&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Anshul+👋;Backend+Engineer+%7C+AI+Engineer+%7C+Distributed+Systems;Building+Scalable+Systems+%26+Smart+AI+Workflows" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 4+ years building **secure, high-throughput systems** in finance & fraud detection  
-- Comfortable across the stack but happiest doing **backend, data, and ML-heavy** work  
-- Hands-on with **Java, Spring Boot, Python, AWS, Docker, Kubernetes**  
-- Love turning messy, unstructured data into **useful analytics & products**  
-- Big F1 nerd 🏎️ – yes, I did build my own F1 data dashboard
+Software Engineer with **4+ years** building high-scale, mission-critical systems across **fraud detection**,  
+**distributed systems**, **AI/ML workflows**, and **cloud-native platforms**.  
+
+I love designing systems that are **fast**, **reliable**, and **intelligent** — whether it’s  
+🤖 LLM-powered workflows,  
+⚡ ultra-low latency APIs, or  
+📊 real-time dashboards like my F1 analytics project.
 
 ---
 
-## 🛠 Tech I use a lot
+## 🧰 Tech Stack
 
-**Languages**
-- Java · Python · SQL · a bit of HTML/CSS/JS when needed
-
-**Backend / APIs**
-- Spring Boot · REST APIs · microservices · async & event-driven patterns
-
-**Data / ML / Analytics**
-- Pandas · NumPy · scikit-learn · NLP (NLTK, spaCy, topic modeling)
-- Recommender systems, logistic regression, embeddings, similarity search
-
-**Infra & DevOps**
-- AWS · Docker · Kubernetes  
-- GitHub Actions · CI/CD basics · logging & monitoring mindset
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,go,cpp,js,ts,aws,gcp,docker,kubernetes,redis,rabbitmq,kafka,postgres,mysql,mongo,linux,git,githubactions&perline=10" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧃 Brewlytic – Craft Beer Recommender
-**Repo:** [brewlytic](https://github.com/Anshul-24git/brewlytic)  
+### 🏎 **F1 Real-time Dashboard**  
+Live telemetry visualization with Python + FastF1  
+🔗 https://github.com/Anshul-24git/f1-dash
 
-Content-based **recommender system** for craft beers using crowdsourced reviews.  
-Scrapes & cleans reviews, extracts attributes, combines **similarity + sentiment** to recommend beers, and compares Bag-of-Words vs word embeddings pipelines.  
-Tech: `Python`, `NLP`, `VADER`, `spaCy`, `scikit-learn`, `pandas`, `Jupyter`  
+### 🍺 **Brewlytic – Craft Beer Recommender**  
+NLP + embeddings + sentiment analysis  
+🔗 https://github.com/Anshul-24git/brewlytic
 
----
+### 📸 **Instagram Engagement Predictor**  
+Vision + NLP + logistic regression  
+🔗 https://github.com/Anshul-24git/instalyze
 
-### 🚗 Luxury Car Brand NLP Analysis
-**Repo:** [Unstructured-Data-Analysis-of-Luxury-Car-Brands](https://github.com/Anshul-24git/Unstructured-Data-Analysis-of-Luxury-Car-Brands)  
-
-Scrapes **Edmunds forum discussions** for entry-level luxury cars and runs NLP to uncover brand perception, feature associations, and aspirational brands.  
-Includes Zipf’s law validation, lift ratios, and brand maps using **multi-dimensional scaling**.  
-Tech: `Python`, `BeautifulSoup`, `NLTK`, `pandas`, `scikit-learn`, `matplotlib`  
-
----
-
-### 📸 Instalyze – Instagram Engagement Prediction
-**Repo:** [instalyze](https://github.com/Anshul-24git/instalyze)  
-
-Multimodal analysis of **what drives engagement on Instagram** for a brand.  
-Scrapes posts, uses **vision APIs** to label images, runs logistic regression and topic modeling to predict engagement and extract content strategies.  
-Tech: `Python`, `Instaloader/Custom scraper`, `Cloud Vision API`, `scikit-learn`, `gensim`, `pandas`, `matplotlib`  
+### 🚗 **Luxury Car Brand Sentiment Analysis**  
+Unstructured data analytics + MDS brand maps  
+🔗 https://github.com/Anshul-24git/Unstructured-Data-Analysis-of-Luxury-Car-Brands
 
 ---
 
-### 🏎 F1 Dash – Formula 1 Analytics Dashboard
-**Repo:** [f1-dash](https://github.com/Anshul-24git/f1-dash)  
-
-An experimental **F1 analytics dashboard** built in Python to explore race and driver stats.  
-Focuses on data processing, reusable utilities, and a clear layout for visualizing season insights.  
-Tech: `Python`, `Dash/Plotting`, `pandas`  
-
----
-
-## 📊 GitHub Snapshot
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&show_icons=true&theme=default&hide_title=false" alt="Anshul's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul-24git&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul-24git" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul-24git&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🏆 GitHub Achievements
 
-- 💼 LinkedIn: [anshul-joshi24](https://www.linkedin.com/in/anshul-joshi24)  
-- 🧠 Always down to chat about **backend design, data pipelines, ML, and F1**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshul-24git&theme=algolia&margin-w=15&margin-h=15&column=7" />
+</p>
 
-Thanks for dropping by! ⭐ a repo if something here helped you.
+---
+
+## 🧠 Wakatime Coding Stats (Optional)
+
