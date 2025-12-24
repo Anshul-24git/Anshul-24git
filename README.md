@@ -76,5 +76,7 @@ Unstructured data analytics + MDS brand maps
   <img src="https://raw.githubusercontent.com/Anshul-24git/Anshul-24git/output/github-snake-dark.svg" alt="snake gif" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat)
+
 ## 🧠 Wakatime Coding Stats (#todo)
 
