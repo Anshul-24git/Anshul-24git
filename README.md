@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **4+ years** building high-scale, mission-critical systems across **finance & fraud detection**,  
+Ai native Software Engineer with **4+ years** of experience building high-scale, mission-critical systems across **finance & fraud detection**,  
 **distributed systems**, **AI/ML workflows**, and **cloud-native platforms**.  
 
 - Comfortable across the stack but happiest doing **backend, data, and ML-heavy** work  
@@ -18,14 +18,6 @@ Software Engineer with **4+ years** building high-scale, mission-critical system
 🤖 LLM-powered workflows,  
 ⚡ ultra-low latency APIs, or  
 📊 real-time dashboards like my F1 analytics project.
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,go,cpp,js,ts,aws,gcp,docker,kubernetes,redis,rabbitmq,kafka,postgres,mysql,mongo,linux,git,githubactions&perline=10" />
-</p>
 
 ---
 
@@ -48,6 +40,14 @@ Vision + NLP + logistic regression  🔗 https://github.com/Anshul-24git/instaly
 
 ### 🚗 **Luxury Car Brand Sentiment Analysis**  
 Unstructured data analytics + MDS brand maps  🔗 https://github.com/Anshul-24git/Unstructured-Data-Analysis-of-Luxury-Car-Brands
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,go,cpp,js,ts,aws,gcp,docker,kubernetes,redis,rabbitmq,kafka,postgres,mysql,mongo,linux,git,githubactions&perline=10" />
+</p>
 
 ---
 
