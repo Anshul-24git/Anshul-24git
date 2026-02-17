@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Ai native Software Engineer with **4+ years** of experience building high-scale, mission-critical systems across **finance & fraud detection**,  
+AI native Software Engineer with **4+ years** of experience building high-scale, mission-critical systems across **finance & fraud detection**,  
 **distributed systems**, **AI/ML workflows**, and **cloud-native platforms**.  
 
 - Comfortable across the stack but happiest doing **backend, data, and ML-heavy** work  
