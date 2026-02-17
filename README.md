@@ -31,6 +31,14 @@ Software Engineer with **4+ years** building high-scale, mission-critical system
 
 ## 🚀 Featured Projects
 
+### 🏎 **Mini CI Agent (AI-Powered Self-Healing CI)**  
+Vercel AI CI agent auto-runs pipelines and proposes fixes automatically.
+🔗 https://github.com/Anshul-24git/mini-ci-agent
+
+### 🏎 **AI-Powered Email Verification API**  
+Scalable email verification service that validates deliverability
+🔗 https://github.com/Anshul-24git/email-verifier-public
+
 ### 🏎 **F1 Real-time Dashboard**  
 Live telemetry visualization with Python + FastF1  
 🔗 https://github.com/Anshul-24git/f1-dash
