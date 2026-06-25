@@ -4,91 +4,165 @@
 
 # Anshul Joshi
 
-### Software Engineer | AI-Native Backend Systems | Automation Platforms
+### Software Engineer building AI-native backend systems, automation platforms, and developer tools.
 
-I build practical software systems that turn messy workflows into reliable products: AI-assisted developer tools, contract operations automation, job monitoring systems, lead discovery pipelines, and data-driven dashboards.
-
-[LinkedIn](https://www.linkedin.com/in/anshul-joshi24/) · [GitHub](https://github.com/Anshul-24git) · [Projects](https://github.com/Anshul-24git?tab=repositories)
+<a href="https://github.com/Anshul-24git?tab=repositories">
+  <img src="https://img.shields.io/badge/Featured%20Work-AI%20Tools%20%7C%20Backend%20%7C%20Automation-2C5364?style=for-the-badge" alt="Featured work badge" />
+</a>
+<a href="https://www.linkedin.com/in/anshul-joshi24/">
+  <img src="https://img.shields.io/badge/LinkedIn-Anshul%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+</a>
+<a href="https://github.com/Anshul-24git">
+  <img src="https://komarev.com/ghpvc/?username=Anshul-24git&style=for-the-badge&color=2C5364" alt="Profile views" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I am a software engineer focused on backend systems, AI-assisted workflows, automation platforms, and full-stack product development.
+I build practical software systems that turn messy workflows into clear, reliable products.
 
-My strongest work sits at the intersection of:
+My work is strongest around **Python/FastAPI backends, TypeScript/React dashboards, workflow automation, AI-assisted tools, data pipelines, and operational systems**.
 
-- **Backend engineering:** APIs, services, data models, workflow logic, authentication, reliability
-- **AI systems:** LLM-assisted workflows, agent-style tooling, explainable scoring, AI-assisted patch generation
-- **Automation:** job monitoring, contract operations, scraping, email verification, lead discovery
-- **Product execution:** taking an idea from prototype to a usable working system
+Currently focused on:
 
----
-
-## Featured Projects
-
-| Project | What it demonstrates | Tech |
-|---|---|---|
-| [ContractOps Command Center](https://github.com/Anshul-24git/justpaid-contractops-command-center) | AI-assisted contract operations dashboard with Slack-style triage, deterministic workflow actions, risk scoring, and operations intelligence. | FastAPI, React, TypeScript, OpenAI-ready workflows |
-| [Mini CI Agent](https://github.com/Anshul-24git/mini-ci-agent) | Developer-tooling project that runs CI checks, analyzes failures, proposes LLM-generated fixes, and supports guarded patch application. | Next.js, TypeScript, Vercel Sandbox, LLM workflows |
-| [Job Monitoring System](https://github.com/Anshul-24git/job-monitoring) | Automated job-search platform with ATS integrations, deduplication, scheduled monitoring, email alerts, and a local dashboard. | Python, Playwright, SQLite, ATS APIs |
-| [LeadSignal Email Finder](https://github.com/Anshul-24git/leadsignal-email-finder) | Lead discovery and email enrichment tool with parsing, confidence scoring, DNS/MX validation, CSV export, and persistence. | FastAPI, React, SQLite, DNS validation |
-| [Email Verifier Dashboard](https://github.com/Anshul-24git/email-verifier-public) | Email deliverability dashboard with provider pooling, quota-aware failover, strict validation rules, and usage tracking. | Python, FastAPI, SQLite, Hunter, ZeroBounce |
-| [Startup Jobs Tool](https://github.com/Anshul-24git/startup-jobs-tool) | Startup-focused job ingestion and monitoring system with source discovery, filtering, deduplication, and email digests. | Python, scraping, automation, SQLite |
+- AI-native developer tooling and CI automation
+- Backend-heavy full-stack products
+- Workflow automation for jobs, contracts, leads, and email intelligence
+- Dashboards that make complex systems easy to understand and act on
 
 ---
 
-## Engineering Toolkit
+## 🚀 Featured Builds
 
-| Area | Tools and Technologies |
-|---|---|
-| **Languages** | Python, Java, TypeScript, JavaScript, SQL |
-| **Backend** | FastAPI, Spring Boot, REST APIs, authentication, service design, workflow orchestration |
-| **Frontend** | React, Next.js, Tailwind CSS, dashboard UX, reusable components |
-| **Data and Automation** | PostgreSQL, SQLite, scraping, crawling, Playwright, scheduled jobs, email automation |
-| **AI Workflows** | LLM-assisted tooling, agent-style workflows, explainable scoring, AI-assisted patch generation |
-| **DevOps and Tooling** | Docker, GitHub Actions, CI/CD, Vercel, Linux, environment-safe configuration |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Anshul-24git/justpaid-contractops-command-center">ContractOps Command Center</a></h3>
+      <p><b>AI-assisted command center for contract operations.</b></p>
+      <p>Turns contract/account context into explainable readiness decisions, risk signals, Slack-ready action packages, and execution briefings.</p>
+      <p><b>Stack:</b> FastAPI, React, TypeScript, Pydantic, Slack API, OpenAI-ready workflows</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Anshul-24git/mini-ci-agent">Mini CI Agent</a></h3>
+      <p><b>AI-powered self-healing CI workflow.</b></p>
+      <p>Runs CI in a sandbox, analyzes failing logs, proposes patches, applies fixes, and re-runs checks with traceable execution steps.</p>
+      <p><b>Stack:</b> Next.js 15, TypeScript, Vercel Sandbox, OpenAI, CI automation</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Anshul-24git/job-monitoring">Job Monitoring System</a></h3>
+      <p><b>Automated job monitoring and alerting platform.</b></p>
+      <p>Tracks ATS job boards, filters software roles, deduplicates with SQLite, sends email alerts, and provides a local dashboard.</p>
+      <p><b>Stack:</b> Python, Playwright, SQLite, ATS APIs, YAML config, email automation</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Anshul-24git/leadsignal-email-finder">LeadSignal Email Finder</a></h3>
+      <p><b>Lead discovery and email enrichment workbench.</b></p>
+      <p>Parses lead input, generates candidate email patterns, validates DNS/MX signals, ranks confidence, persists leads, and exports CSVs.</p>
+      <p><b>Stack:</b> FastAPI, React, SQLite, DNS/MX validation, CSV export</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Anshul-24git/email-verifier-public">Email Verifier Dashboard</a></h3>
+      <p><b>Multi-provider email verification system.</b></p>
+      <p>Uses provider pooling, quota-aware failover, strict validation rules, TTL-aware local storage, and usage tracking.</p>
+      <p><b>Stack:</b> Python, SQLite, Hunter, Abstract, ZeroBounce, validation pipelines</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Anshul-24git/startup-jobs-tool">Startup Jobs Tool</a></h3>
+      <p><b>Startup-focused job discovery pipeline.</b></p>
+      <p>Discovers startup job boards, ingests roles from public ATS APIs, filters software jobs, deduplicates results, and emails digests.</p>
+      <p><b>Stack:</b> Python, SQLite, Greenhouse, Lever, Ashby, crawler utilities</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## What I Like Building
-
-- Systems that automate repetitive operational work
-- AI tools that assist engineers instead of replacing engineering judgment
-- Dashboards that make complex workflows clear and actionable
-- Backend platforms that are reliable, explainable, and easy to extend
-- Practical products that solve real workflow pain points
-
----
-
-## Repository Focus
-
-My current GitHub work is focused on building a portfolio around:
-
-1. **AI-native developer tools**
-2. **Workflow automation platforms**
-3. **Backend-heavy full-stack applications**
-4. **Data ingestion and monitoring systems**
-5. **Operational dashboards with real product use cases**
-
----
-
-## GitHub Activity
+## 🧰 Engineering Toolkit
 
 <div align="center">
 
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshul-24git&show_icons=true&hide_border=true&rank_icon=github)
+<b>Backend & APIs</b><br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,nodejs,postgres,sqlite,mongodb" alt="Backend and API skills" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&layout=compact&hide_border=true)
+<br/><br/>
+
+<b>Frontend & Product UI</b><br/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,vite,tailwind,html,css" alt="Frontend skills" />
+
+<br/><br/>
+
+<b>Automation, DevOps & Tooling</b><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,vercel,aws,linux,vscode" alt="Automation DevOps and tooling skills" />
+
+</div>
+
+<br/>
+
+| Area | Focus |
+|---|---|
+| **Backend systems** | APIs, services, workflow logic, authentication, reliability, data modeling |
+| **AI workflows** | LLM-assisted tooling, agent-style flows, explainable scoring, patch generation |
+| **Automation** | scraping/crawling, ATS integrations, scheduled jobs, dedupe, email alerts |
+| **Product engineering** | dashboards, full-stack UX, practical systems that move from idea to working product |
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshul-24git/Anshul-24git/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshul-24git/Anshul-24git/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anshul-24git/Anshul-24git/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## Connect
+## 📊 GitHub Snapshot
 
-I am always interested in building useful products, backend systems, AI tooling, and automation workflows.
+<div align="center">
 
-[Connect on LinkedIn](https://www.linkedin.com/in/anshul-joshi24/) · [Explore my repositories](https://github.com/Anshul-24git?tab=repositories)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Anshul's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Anshul-24git&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🧭 What I Like Building
+
+```txt
+AI developer tools      → systems that reason over repos, logs, workflows, and patches
+Backend platforms       → APIs, automation engines, scoring logic, integrations, services
+Operational dashboards  → clear interfaces for complex workflows and business decisions
+Data products           → pipelines that convert noisy data into useful signals
+```
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anshul-joshi24/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Anshul-24git?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+</a>
+
+</div>
