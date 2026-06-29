@@ -114,6 +114,16 @@ Currently focused on:
 
 ---
 
+## ⚡ AI Coding Activity
+
+<div align="center">
+
+<img src="./assets/anshul-codex-profile-card.png" alt="Codex usage profile card" width="720" />
+
+</div>
+
+---
+
 ## 🐍 Contribution Activity
 
 <div align="center">
