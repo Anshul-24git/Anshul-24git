@@ -138,15 +138,17 @@ Currently focused on:
 
 ---
 
-## GitHub Activity
 
-<div align="center">
+## GitHub Analytics
 
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshul-24git&show_icons=true&hide_border=true&rank_icon=github)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&layout=compact&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anshul-24git&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
