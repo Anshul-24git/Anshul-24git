@@ -142,12 +142,25 @@ Currently focused on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Anshul's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img
+height="165"
+alt="Anshul's GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=github_dark_dimmed&amp;cache_seconds=86400&amp;v=3"
+/>
 
-<br/>
+<img
+height="165"
+alt="Top languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark_dimmed&amp;cache_seconds=86400&amp;v=3"
+/>
 
-<img src="https://streak-stats.demolab.com?user=Anshul-24git&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br /><br />
+
+<img
+width="700"
+alt="GitHub streak stats"
+src="https://streak-stats.demolab.com?user=Anshul-24git&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=8"
+/>
 
 </div>
 
