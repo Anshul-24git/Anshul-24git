@@ -140,29 +140,26 @@ Currently focused on:
 
 ## 📊 GitHub Snapshot
 
-<div align="center">
+<p align="center">
+  <img
+    height="165"
+    alt="Anshul's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;cache_seconds=21600&amp;v=7"
+  />
+  <img
+    height="165"
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;cache_seconds=21600&amp;v=7"
+  />
+</p>
 
-<img
-height="165"
-alt="Anshul's GitHub stats"
-src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=github_dark_dimmed&amp;cache_seconds=86400&amp;v=3"
-/>
-
-<img
-height="165"
-alt="Top languages"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark_dimmed&amp;cache_seconds=86400&amp;v=3"
-/>
-
-<br /><br />
-
-<img
-width="700"
-alt="GitHub streak stats"
-src="https://streak-stats.demolab.com?user=Anshul-24git&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=8"
-/>
-
-</div>
+<p align="center">
+  <img
+    width="700"
+    alt="GitHub streak stats"
+    src="https://streak-stats.demolab.com?user=Anshul-24git&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=8&amp;v=7"
+  />
+</p>
 
 ---
 
