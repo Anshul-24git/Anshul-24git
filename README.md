@@ -118,7 +118,7 @@ Currently focused on:
 
 <div align="center">
 
-<img src="./assets/anshul-codex-profile-card.png" alt="Codex usage profile card" width="720" />
+<img src="./assets/AJ-codex-profile-card.png" alt="Codex usage profile card" width="720" />
 
 </div>
 
