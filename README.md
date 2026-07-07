@@ -138,16 +138,19 @@ Currently focused on:
 
 ---
 
-
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Anshul-24git">
+    <img height="170" alt="Anshul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anshul-24git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400&v=11" />
+  </a>
+  <a href="https://github.com/Anshul-24git">
+    <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-24git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=11" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anshul-24git&theme=tokyonight&hide_border=true" />
+  <img width="700" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Anshul-24git&theme=tokyonight&hide_border=true&v=11" />
 </p>
 
 ---
